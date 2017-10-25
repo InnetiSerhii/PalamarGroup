@@ -203,7 +203,7 @@ const template = `
          ng-if="$ctrl.master.videos.length>0 || $ctrl.master.works.length>0">
         <div class="page-delimiter" flex>
             <div class="fit-screen-wrap  invers header">
-                <div class="md-display-2"> РОБОТИ МАЙСТРА</div>
+                <div class="md-display-2"> РОБОТИ МАЙСТРА 2</div>
             </div>
 
         </div>
